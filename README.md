@@ -1,4 +1,5 @@
 # Module 18 - Tableau
+*Please refer to "Module 18, Tableau - Challenge Note.txt" for my complete observations and analysis.
 https://public.tableau.com/app/profile/tyler.walje8220/viz/Jan-June_2023/Story1
 
 ## Total Riding Popularity (by month and by hour)
