@@ -1,0 +1,22 @@
+Module 18, Tableau - Challenge Notes
+
+DATA
+
+Data Collection 
+	There was lots of data to choose from for this challenge! I opted to take Jan, Feb, Mar, Apr, May and June (the first 6 months of 2023) to analyze. I did this because I wanted to be able to compare several months against one another, and this sample of Jan-June provides that option. It also provides different weather and different temperatures (Winter, Spring and Summer all fall in those months).
+	6 months of data was still way too much to handle in Tableau. So I created a Jupyter Notebook (included in the repository) and was able to create a much smaller subset of data in the notebook. I think this was a good approach for this challenge because it provides a healthy amount of data in the 6 month span while simultaneously creating a dataset that was workable and showed good visualizations. 
+
+
+OBSERVATIONS
+
+Total Riders (by Month and Hour)
+	In the Total Riders section, we can start to observe the more popular times for people to ride Citi Bikes. The first observation I had was that in January, February and March, the rider total was much lower than in April, May and June. I believe this is correlated to the weather. During colder months (Winter) people are less likely to ride Citi Bikes. During the warmer months (Spring/Summer) it appears people are more likely to use Citi Bikes. This is all displayed in the "Total Riders per Month" bar graph.
+	Regarding the most popular hours, we can observe "spikes" in the visualizations when people would either be going to work or getting off work. 8am was the busiest hour in the morning while 5pm was the busiest overall time during the day. This would infer that at least a percentage of individuals using Citi Bikes are doing so to get to work.
+	For the final display on the Total Riders section, I included graphs of Riding Popularity throughout the day. These graphs show each month (Jan-June) and how many bikes were being used per hour, isolating each month.
+
+
+Members vs Casual Riders
+	This section separates Citi Bike riders into two categories: Members and Non-Members (Casual Riders). We can observe from both the bar graph and map that there are more Member riders compared to Casual riders. The map also allows us to zoom in on specific locations and view Member/Casual riders in those specific locations.
+
+Most Popular Stations
+	The Most Popular Stations section looks at individual stations and shows the most popular and the least popular stations. On the map, we can zoom in and see the count of exact stations as well as a color/size coordinated map which we can interact with. Between the map and the two charts below it, we can both see geographically where the most popular stations are as well as the actual stations themselves (listed on the bottom charts).
