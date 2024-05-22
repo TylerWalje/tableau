@@ -1,4 +1,5 @@
 # Module 18 - Tableau
+https://public.tableau.com/app/profile/tyler.walje8220/viz/Jan-June_2023/Story1
 
 ## Total Riding Popularity (by month and by hour)
 The more popular months seem to be in the warmer months of the year. This would make sense as people would be more likely to use Citi Bikes in warmer weather compared to colder weather. We can also see that 5pm is the busiest time of the day when combining all months, and 4am is the slowest time. Within the hour-by-hour breakdown, there is an option to isolate individual months for a more detailed analysis.
