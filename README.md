@@ -1,3 +1,7 @@
+Hi there. My name is Tyler Walje and this is my Tableau project. Please reach out with any questions to walje15@gmail.com or (720) 937-7927.
+Thank you.
+
+
 # Module 18 - Tableau
 *Please refer to "Module 18, Tableau - Challenge Note.txt" for my complete observations and analysis.
 https://public.tableau.com/app/profile/tyler.walje8220/viz/Jan-June_2023/Story1
